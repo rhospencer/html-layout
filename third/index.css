@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 80px;
+    width: 100%;
+    background: lightgray;
+
+}
+.square{
+    height: 70px;
+    width: 70px;
+    background: royalblue;
+    margin-left: 20px;
+    margin-top: 5px;
+    float: left;
+}
+.content{
+    height: 250px;
+    width: 100%;
+    background: white;
+}
+p{
+    margin: 40px;
+    padding-top: 80px;
+}
+.blue{
+    height: 100px;
+    width: 100%;
+    background: royalblue;
+}
+.teal{
+    height: 100px;
+    width: 100%;
+    background: teal;
+}
+.green{
+    height: 100px;
+    width: 100%;
+    background: greenyellow;
+}
+.yellow{
+    height: 90px;
+    width: 100%;
+    background: yellow;
+}

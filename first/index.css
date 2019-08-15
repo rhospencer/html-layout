@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background: lightgray;
+}
+.header {
+    background: grey;
+    height: 100px;
+    width: 100%;
+}
+.footer {
+    background: black;
+    height: 100px;
+    width: 80%;
+    margin: auto;
+}
+.center {
+     background: white;
+     height: 600px;
+     width: 80%;
+     margin: auto;
+}
